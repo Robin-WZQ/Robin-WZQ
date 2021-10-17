@@ -4,6 +4,8 @@ My name is Wang Zhongqi, U can also call me  Robin. My Email is 2485794339@qq.co
 As all people who have joined Github, my propose is sharing my idea and wish to be inspired from others projects. And I will put some project in the repositories and most of them are from my homeworks. Besides, I will also list some paper readings from my scientific research experience. Last but not the least, I will do my best to create a good learning atmosphere for me to do learning record.
 
 Anyway, hello github! Hello world!
+![Robin-WZQ's github stats](https://github-readme-stats.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=radical)
+
 <!--
 **Robin-WZQ/Robin-WZQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
