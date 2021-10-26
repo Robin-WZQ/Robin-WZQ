@@ -13,11 +13,6 @@ Anyway, hello github! Hello world!
     <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-WZQ&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
 
-<br></br>
-
-<image src="https://github-profile-trophy.vercel.app/?username=Robin-WZQ&theme=dracula"/>
-<br></br>
-
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 <!--
 **Robin-WZQ/Robin-WZQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
