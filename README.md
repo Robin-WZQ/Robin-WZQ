@@ -6,7 +6,12 @@ As all people who have joined Github, my propose is sharing my idea and wish to 
 Anyway, hello github! Hello world!
 
 ![Robin-WZQ's github stats](https://github-readme-stats.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=radical)
+<br></br>
 
+<image src="https://github-profile-trophy.vercel.app/?username=Robin-WZQ&theme=dracula"/>
+<br></br>
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 <!--
 **Robin-WZQ/Robin-WZQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
