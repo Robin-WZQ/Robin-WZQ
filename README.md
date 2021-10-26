@@ -6,16 +6,16 @@ As all people who have joined Github, my propose is sharing my idea and wish to 
 Anyway, hello github! Hello world!
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=Robin_WZQ&show_icons=true&theme=tokyonight" width=400>
+    <image src="https://github-readme-stats.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=tokyonight" width=400>
     </image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin_WZQ&layout=compact&theme=tokyonight&hide=html" width=400></image>
+    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-WZQ&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
 
 <br></br>
 
-<image src="https://github-profile-trophy.vercel.app/?username=Robin_WZQ&theme=dracula"/>
+<image src="https://github-profile-trophy.vercel.app/?username=Robin-WZQ&theme=dracula"/>
 <br></br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
