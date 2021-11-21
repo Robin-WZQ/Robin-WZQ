@@ -1,5 +1,8 @@
-### Hi there 👋
-My name is Wang Zhongqi, U can also call me  Robin. My Email is 2485794339@qq.com and wzqrobin@gmail.com. Now I am a undergraduate student and my major is artificial intelligence. I am interested in Deep learning, Computer vision and Congnitive science.
+ ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
+
+#### Hi 👋, I am **Robin_WZQ**. Welcome to my repositories. Hope you can enjoy everything here.</br>
+
+My name is Wang Zhongqi, U can also call me Robin. My Email is 2485794339@qq.com. Now I am a undergraduate student and my major is artificial intelligence.
 
 As all people who have joined Github, my propose is sharing my idea and wish to be inspired from others projects. And I will put some project in the repositories and most of them are from my homeworks. Besides, I will also list some paper readings from my scientific research experience. Last but not the least, I will do my best to create a good learning atmosphere for me to do learning record.
 
