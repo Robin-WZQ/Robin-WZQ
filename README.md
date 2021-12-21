@@ -1,12 +1,13 @@
- ### I Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
+𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Robin 👋
+========
+### Welcome to my repositories. Hope you can enjoy everything here!</br>
 
-#### Hi 👋, I am **Robin_WZQ**. Welcome to my repositories. Hope you can enjoy everything here.</br>
+- An AI🧠 student in Beijing Institute of Technology🏫, and will gradute🎓 in 2022
+- Enjoy coding with python🐍, but can do code with C, C++ as well
+- Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
+- Enjoy reading book, especially science fictions😄
+- One Piece fans🔥🔥🔥
 
-My name is Wang Zhongqi, U can also call me Robin. My Email is 2485794339@qq.com. Now I am a undergraduate student and my major is artificial intelligence.
-
-As all people who have joined Github, my propose is sharing my idea and wish to be inspired from others projects. And I will put some project in the repositories and most of them are from my homeworks. Besides, I will also list some paper readings from my scientific research experience. Last but not the least, I will do my best to create a good learning atmosphere for me to do learning record.
-
-Anyway, hello github! Hello world!
 
 <b>
     <image src="https://github-readme-stats.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=tokyonight" width=400>
