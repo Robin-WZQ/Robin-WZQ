@@ -7,6 +7,7 @@
 - Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 - Enjoy reading book, especially science fictions😄
 - One Piece fans🔥🔥🔥
+- Email: 2485794339@qq.com
 
 
 <b>
