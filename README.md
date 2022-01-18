@@ -1,7 +1,6 @@
 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Robin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ========
 ### Welcome to my repositories. Hope you can enjoy everything here!</br>
-![Robin-WZQ](https://visitor-badge.glitch.me/badge?page_id=Robin-WZQ)
 
 - An AI🧠 student in Beijing Institute of Technology🏫, and will gradute🎓 in 2022
 - Enjoy coding with python🐍, but can do code with C, C++ as well
