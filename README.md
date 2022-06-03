@@ -1,4 +1,4 @@
-𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Robin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Robin 
 ========
 ### Welcome to my repositories. Hope you can enjoy everything here!</br>
 
