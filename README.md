@@ -11,11 +11,11 @@
 
 
 <b>
-    <image src="https://github-readme-stats.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=tokyonight" width=400>
+    <image src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Robin-WZQ&show_icons=true&theme=tokyonight" width=400>
     </image>
 </b>
 <b>
-    <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-WZQ&layout=compact&theme=tokyonight&hide=html" width=400></image>
+    <image src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Robin-WZQ&layout=compact&theme=tokyonight&hide=html" width=400></image>
 </b>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
