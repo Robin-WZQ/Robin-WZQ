@@ -2,11 +2,10 @@
 ========
 ### Welcome to my repositories. Hope you can enjoy everything here!</br>
 
-- An AI🧠 student in Beijing Institute of Technology🏫, and will gradute🎓 in 2023
+- An AI🧠 student in UCAS🏫, and will gradute🎓 in 2026
 - Enjoy coding with python🐍, but can do code with C, C++ as well
-- Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
+- I am a life-long and self-taught person. Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 - Enjoy reading books, especially science fictions😄
-- One Piece fans🔥🔥🔥
 - Email: 2485794339@qq.com
 
 
