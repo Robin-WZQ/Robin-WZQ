@@ -2,7 +2,7 @@
 ========
 ### Welcome to my repositories. Hope you can enjoy everything here!</br>
 
-- An AI🧠 student in UCAS🏫, and will gradute🎓 in 2026
+- An AI🧠 student🏫
 - Enjoy coding with python🐍, but can do code with C, C++ as well
 - I am a life-long and self-taught person. Love <span style="color:red">❤</span> the DeepLearning<span style="color:white">🧠</span> and Computer Vision<span style="color:white">👀</span>
 - Enjoy reading books, especially science fictions😄
