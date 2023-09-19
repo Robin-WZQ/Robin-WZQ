@@ -2,6 +2,6 @@
 ========
 ### Welcome to my repositories. Hope you can enjoy everything here!</br>
 
-- Email: 2485794339@qq.com
+- Email: wangzhongqi23s@ict.ac.cn
 
 
